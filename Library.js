@@ -1,14 +1,14 @@
 
 
 class Library {
-    constructor(){
+	constructor(){
 
-        this.books = [];
-        this.audiobooks = [];
-        this.games = [];
-        this.movies = [];
-        this.music = [];
-    }
+		this.books = [];
+		this.audiobooks = [];
+		this.games = [];
+		this.movies = [];
+		this.music = [];
+	}
 }
 
 module.exports = {Library}
