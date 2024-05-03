@@ -6,3 +6,5 @@ class Media {
         this.name = newName;
     }
 }
+
+module.exports = {Media}
